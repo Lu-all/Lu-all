@@ -20,8 +20,8 @@ Contributor on [s(CASP)](https://gitlab.software.imdea.org/ciao-lang/sCASP)!
 
 ## 🛠️ Langs
 
-![Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lu-all&theme=tokyonight&exclude=html)
-![Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lu-all&theme=tokyonight&exclude=html)
+![Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lu-all&theme=tokyonight)
+![Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lu-all&theme=tokyonight)
 
 ---
 
