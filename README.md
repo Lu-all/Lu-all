@@ -13,9 +13,9 @@ Contributor on <a href="https://gitlab.software.imdea.org/ciao-lang/sCASP"><img 
 
 ## 🚀 About Me
 
-- 🧠 PhD student specializing in **AI** and **Machine Learning**
-- 🔍 Research interests: Answer Set Programming (ASP), hybrid AI (symbolic + subsymbolic), Cybersecurity and ML
-- 🛠️ Coding in: **ASP**, **Python**, **zsh**, and more
+- 🧠 PhD student specializing in **AI**
+- 🔍 Research interests: Answer Set Programming (ASP), hybrid AI (symbolic + subsymbolic), Cybersecurity and some ML
+- 🛠️ Coding in: **s(CASP)** (**ASP** with constraints), **Python**, **zsh**, and more
 - 📝 Writes lyrics for fun
 
 ---
